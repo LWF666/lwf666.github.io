@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lwf666.github.io/p/hello-world/</loc>
+    <loc>https://lwf666.github.io/post/hello-world/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lwf666.github.io/</loc>
@@ -20,7 +20,7 @@
     <loc>https://lwf666.github.io/tags/markdown/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lwf666.github.io/p/markdown-syntax-guide/</loc>
+    <loc>https://lwf666.github.io/post/markdown-syntax-guide/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lwf666.github.io/post/</loc>
@@ -38,13 +38,13 @@
     <loc>https://lwf666.github.io/tags/themes/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lwf666.github.io/p/image-gallery/</loc>
+    <loc>https://lwf666.github.io/post/image-gallery/</loc>
     <lastmod>2023-08-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lwf666.github.io/p/shortcodes/</loc>
+    <loc>https://lwf666.github.io/post/shortcodes/</loc>
     <lastmod>2023-08-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lwf666.github.io/p/math-typesetting/</loc>
+    <loc>https://lwf666.github.io/post/math-typesetting/</loc>
     <lastmod>2023-08-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lwf666.github.io/archives/</loc>
